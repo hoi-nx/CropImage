@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CamareCrop</string>
+    <string name="all_ok">OK</string>
+    <string name="alert_permissions_rationale">Ứng dụng cần được cấp quyền để thực hiện các chức năng</string>
+</resources>
